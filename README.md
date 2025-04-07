@@ -1,1 +1,1 @@
-# device_feature_try
+# device-features-react-native
